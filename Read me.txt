@@ -1,0 +1,15 @@
+
+Project - Sky Sight
+
+Flight cancellations and delays are a persistent challenge in the aviation industry, impacting passengers, airlines, and the broader transportation system. This project analyzes the relationship between flight delays and key factors such as climate conditions and air traffic congestion. 
+
+The project aims to design and develop a comprehensive data analytics and visualization solution that leverages AviationStack flight API to analyze real-time flight data and predict possible customer delays based on historical flight data.
+
+This project will focus on American Airlines flights departing from Los Angeles Airport (LAX).
+
+This data was collected by registering with AviationStack and generating an API key to call the API request URL with the specified access parameters and additional fields to retrieve American Airlines flights departing from LAX. 
+
+The Flight Delay and Cancellation Dataset (2019-2023) provides comprehensive data on airline flight delays and cancellations from August 2019 to August 2023. 
+
+This dataset was found on Kaggle in CSV format and imported into the Python notebook. It was then converted into a Pandas DataFrame for further processing and exploratory analysis.
+
